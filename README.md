@@ -2,5 +2,5 @@
 
 - Reads data and dependencies of software packages
 - Generates a generic dependency graph based on data parsed from JSON files
-- Checks for cycles 
-- Includes JUnit testings
+- Detects cycles 
+- Included JUnit testings and Makefile
