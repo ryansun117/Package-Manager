@@ -2,7 +2,7 @@
 
 Project developed alone
 
-- Reads data and dependencies of software packages
+- This program parses data and dependencies of software packages from JSON files
 - Generates a generic dependency graph based on data parsed from JSON files
-- Detects cycles 
-- Included JUnit testings and Makefile
+- Capable of detecting cycles
+- JUnit testings and Makefile included
